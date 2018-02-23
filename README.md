@@ -2,7 +2,7 @@
 
 A stacked bar chart which provides a breakdown of percentage of time an interface, all interfaces on a device, or all interfaces in a group (in aggregate) were available and un-available.
 
-![Illustration of the simpleTrends app](simpleTrends_example.png)
+![Illustration of the Interface Availability Distribution per Hour App](screenshot.png)
 
 Based on the NVD3 library.
 
